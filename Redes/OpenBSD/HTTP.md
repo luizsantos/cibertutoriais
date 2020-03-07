@@ -30,7 +30,7 @@ sthttpd-2.26.4p4
 Instalar:
 
 ```console
-dacom# pkg_info -Q httpd
+# pkg_info -Q httpd
 apache-httpd-2.4.41
 bozohttpd-20190228
 darkhttpd-1.12
