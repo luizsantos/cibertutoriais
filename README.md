@@ -9,8 +9,8 @@
 # Sistemas Operacionais
 
 # Redes de Computadores
-* OpenBSD 
-  - [HTTP](Redes/OpenBSD/HTTP.md)
+* [OpenBSD](Redes/OpenBSD/) 
+  - [Servidor HTTP/HTTPS](Redes/OpenBSD/HTTP.md)
 
 # Cibersegurança
 
